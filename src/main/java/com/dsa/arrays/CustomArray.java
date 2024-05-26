@@ -1,4 +1,4 @@
-package com.dsa.Arrays;
+package com.dsa.arrays;
 
 import lombok.Data;
 
